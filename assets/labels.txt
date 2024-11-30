@@ -1,0 +1,5 @@
+dry
+overripe
+ripe
+semi_ripe
+unripe
